@@ -1,2 +1,2 @@
-# Network-Note
-補一些基礎的網路知識
+# Computer-Note
+補一些基礎知識
