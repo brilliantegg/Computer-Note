@@ -14,3 +14,9 @@ function debounce(fn, delay = 300) {
     }
 }
 ```
+
+# git 操作 (隨便填一下XD)
+```
+//  將本次commit與上次合併，並且不修改內容
+git commit --amend --no-edit
+```
